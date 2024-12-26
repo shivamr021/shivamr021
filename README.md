@@ -7,10 +7,11 @@ I'm **Shivam Rathod**, an aspiring software engineer and IT student.
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Web Development with Django.
-- 🌱 I’m currently learning Data Structures and Algorithms in C++ and Javascript.
+- 🌱 I’m currently learning Data Structures and Algorithms in C++ and Python.
 - 🤔 I’m looking for help with Cybersecurity.
 - 💬 Ask me about Novels from China, Korea and Japan. 
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/shivamrathod021/)
+- 🪪 [Credly](https://www.credly.com/users/shivamrathod021/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
