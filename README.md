@@ -37,7 +37,11 @@
   <a href="https://github.com/shivamr021"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.instagram.com/shivam_r_021/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:shivamrathod145@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-  <a href="https://www.hackerrank.com/profile/shivamrathod145"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HackerRank_logo_2018.svg/1200px-HackerRank_logo_2018.svg.png" alt="HackerRank" style="height: 48px; width: 48px;"/></a>
-  <a href="https://www.credly.com/users/shivamrathod021/"><img src="https://img.icons8.com/color/48/000000/credly.png" alt="Credly"/></a>
+  <a href="https://www.hackerrank.com/profile/shivamrathod145">
+    <img src="https://img.icons8.com/ios/50/000000/hackerrank.png" alt="HackerRank"/>
+  </a>
+  <a href="https://www.credly.com/users/shivamrathod021/">
+    <img src="https://img.icons8.com/color/48/000000/credly.png" alt="Credly"/>
+  </a>
 </div>
 
