@@ -13,7 +13,6 @@
   <p>🚀 I enjoy tackling new challenges and strive to improve my problem-solving abilities daily.</p>
   <p>🎓 I’m currently a student, focusing on learning and exploring cutting-edge technologies.</p>
   <p>🌟 Apart from coding, I’m passionate about writing poetry and creative expression.</p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
 ---
