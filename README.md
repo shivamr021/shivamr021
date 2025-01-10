@@ -1,4 +1,4 @@
-<img src="https://www.example.com/your-image-url.jpg" alt="Banner Image" style="width:100%; height:auto;">
+<img src="https://wallpaperaccess.com/full/8084013.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
 ### Hey there, I'm Shivam Rathod 👋
 
@@ -6,12 +6,8 @@
 - 🌟 5⭐ Python & C++ (HackerRank) | AIML Learner | Cybersecurity Enthusiast.
 - 📝 Check out my creative work on Instagram: [fated__destiny](https://www.instagram.com/fated__destiny).
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivamr021&show_icons=true&theme=radical" alt="GitHub Stats">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamr021&layout=compact&theme=radical" alt="Top Languages">
 
-[<img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamr021&theme=radical" alt="Contribution Graph">
-](https://github-readme-activity-graph.cyclic.app/graph?username=shivamr021&theme=radical)
 ### Connect with me 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/shivamrathod021/)
