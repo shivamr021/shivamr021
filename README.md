@@ -1,29 +1,42 @@
-<img src="https://wallpaperaccess.com/full/8084013.jpg" alt="Banner Image" style="width:100%; height:auto;">
-
-### Hey there, I'm Shivam Rathod 👋
-
-- 💻 Passionate about technology, mystery, and storytelling.
-- 🌟 5⭐ Python & C++ (HackerRank) | AIML Learner | Cybersecurity Enthusiast.
-- 📝 Check out my creative work on Instagram: [fated__destiny](https://www.instagram.com/fated__destiny).
-
-## 🧰 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Connect with me 🌐
-
-- [LinkedIn](https://www.linkedin.com/in/shivamrathod021/)
-- [Instagram (Personal)](https://www.instagram.com/shivam_r_021)
-- [Instagram (Fated Destiny)](https://www.instagram.com/fated__destiny)
-
-### More About Me 💡
-<ul>
-    <li>💻 Code by day, shadow by night 🌌</li>
-    <li>✨ Favorite Quote: "When I walk in the darkness, I am the scariest ghost story this city has ever heard.✨" – Cheng Ge (My House of Horrors)</li>
-</ul>
+<div style="text-align: center;">
+  <img src="https://wallpaperaccess.com/full/8084013.jpg" width="100%"/>
+  <h2>Hi there, I'm Nishant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <p>5⭐ Python & C++ | 4⭐ C (HackerRank) | SLC Member @ Datacode.in | AIML Learner | Cybersecurity Enthusiast | Writer @ fated__destiny</p>
+  <p>🌍 Khargone, MP, India</p>
+</div>
 
 ---
-*“Exploring the unknown, one line at a time.”*
+
+<div style="text-align: center;">
+  <h3>Skills</h3>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <h3>About Me</h3>
+  <p>👨‍💻 I'm Shivam, an aspiring software developer with a deep interest in Python, C++, Django, AIML, and Web Development.</p>
+  <p>🌱 Currently building my skills in DSA, and working on real-world projects to expand my expertise.</p>
+  <p>🚀 I enjoy tackling new challenges and strive to improve my problem-solving abilities daily.</p>
+  <p>🎓 I’m currently a student, focusing on learning and exploring cutting-edge technologies.</p>
+  <p>🌟 Apart from coding, I’m passionate about writing poetry and creative expression.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <h3>Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/shivamrathod021/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/shivamr021"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/shivam_r_021/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:shivamrathod145@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+</div>
