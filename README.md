@@ -6,6 +6,17 @@
 
 ---
 
+### HackerRank Badges
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" alt="5⭐ Python" style="height: 120px; width: 120px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" alt="5⭐ C++" style="height: 120px; width: 120px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="4⭐ C" style="height: 120px; width: 120px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg" alt="3⭐ Problem Solving" style="height: 120px; width: 120px;">
+</div>
+
+---
+
 <div style="text-align: center;">
   <h3>About Me</h3>
   <p>👨‍💻 I'm Shivam, an aspiring software developer with a deep interest in Python, C++, Django, AIML, and Web Development.</p>
@@ -26,8 +37,6 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/?size=50&id=5OD485koNIrb&format=png&color=000000" height="" alt="Java"/>
 </div>
 
 
