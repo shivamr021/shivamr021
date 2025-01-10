@@ -7,8 +7,11 @@
 - 📝 Check out my creative work on Instagram: [fated__destiny](https://www.instagram.com/fated__destiny).
 
 ## 🧰 Skills
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white) ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white) ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Connect with me 🌐
 
