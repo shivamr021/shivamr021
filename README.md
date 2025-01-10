@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://wallpaperaccess.com/full/8084013.jpg" width="100%"/>
+  <img src="https://wallpaperaccess.com/full/8084013.jpg" width="500px" height="500px"/>
   <h2>Hi there, I'm Shivam! 👋</h2>
   <p>5⭐ Python & C++ | 4⭐ C (HackerRank) | SLC Member @ Datacode.in | AIML Learner | Cybersecurity Enthusiast | Writer @ fated__destiny</p>
 </div>
