@@ -6,17 +6,6 @@
 
 ---
 
-### HackerRank Badges
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" alt="5⭐ Python" style="height: 50px; width: 50px;">
-  <img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" alt="5⭐ C++" style="height: 50px; width: 50px;">
-  <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="4⭐ C" style="height: 50px; width: 50px;">
-  <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg" alt="3⭐ Problem Solving" style="height: 50px; width: 50px;">
-</div>
-
----
-
 <div style="text-align: center;">
   <h3>About Me</h3>
   <p>👨‍💻 I'm Shivam, an aspiring software developer with a deep interest in Python, C++, Django, AIML, and Web Development.</p>
@@ -48,4 +37,6 @@
   <a href="https://github.com/shivamr021"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.instagram.com/shivam_r_021/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:shivamrathod145@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+  <a href="https://www.hackerrank.com/profile/shivamrathod145"><img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank"/></a>
+  <a href="https://www.credly.com/users/shivamrathod021/"><img src="https://img.icons8.com/color/48/000000/credly.png" alt="Credly"/></a>
 </div>
