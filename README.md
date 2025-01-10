@@ -6,11 +6,9 @@
 - 🌟 5⭐ Python & C++ (HackerRank) | AIML Learner | Cybersecurity Enthusiast.
 - 📝 Check out my creative work on Instagram: [fated__destiny](https://www.instagram.com/fated__destiny).
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivamr021&show_icons=true&theme=radical" alt="GitHub Stats">
+## 🧰 Skills
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white) ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white) ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamr021&layout=compact&theme=radical" alt="Top Languages">
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamr021&theme=radical" alt="Contribution Graph">
 
 ### Connect with me 🌐
 
