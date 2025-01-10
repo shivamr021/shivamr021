@@ -1,8 +1,19 @@
 <div style="text-align: center;">
   <img src="https://wallpaperaccess.com/full/8084013.jpg" width="100%"/>
-  <h2>Hi there, I'm Nishant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <h2>Hi there, I'm Shivam! 👋</h2>
   <p>5⭐ Python & C++ | 4⭐ C (HackerRank) | SLC Member @ Datacode.in | AIML Learner | Cybersecurity Enthusiast | Writer @ fated__destiny</p>
-  <p>🌍 Khargone, MP, India</p>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <h3>About Me</h3>
+  <p>👨‍💻 I'm Shivam, an aspiring software developer with a deep interest in Python, C++, Django, AIML, and Web Development.</p>
+  <p>🌱 Currently building my skills in DSA, and working on real-world projects to expand my expertise.</p>
+  <p>🚀 I enjoy tackling new challenges and strive to improve my problem-solving abilities daily.</p>
+  <p>🎓 I’m currently a student, focusing on learning and exploring cutting-edge technologies.</p>
+  <p>🌟 Apart from coding, I’m passionate about writing poetry and creative expression.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
 ---
@@ -17,18 +28,6 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-</div>
-
----
-
-<div style="text-align: center;">
-  <h3>About Me</h3>
-  <p>👨‍💻 I'm Shivam, an aspiring software developer with a deep interest in Python, C++, Django, AIML, and Web Development.</p>
-  <p>🌱 Currently building my skills in DSA, and working on real-world projects to expand my expertise.</p>
-  <p>🚀 I enjoy tackling new challenges and strive to improve my problem-solving abilities daily.</p>
-  <p>🎓 I’m currently a student, focusing on learning and exploring cutting-edge technologies.</p>
-  <p>🌟 Apart from coding, I’m passionate about writing poetry and creative expression.</p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
 ---
