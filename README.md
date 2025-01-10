@@ -8,11 +8,12 @@
 
 ### HackerRank Badges
 
-![5⭐ Python](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)
-![5⭐ C++](https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg)
-![4⭐ C](https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg)
-![3⭐ Problem Solving](https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg)
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" alt="5⭐ Python" style="height: 50px; width: 50px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" alt="5⭐ C++" style="height: 50px; width: 50px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="4⭐ C" style="height: 50px; width: 50px;">
+  <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg" alt="3⭐ Problem Solving" style="height: 50px; width: 50px;">
+</div>
 
 ---
 
