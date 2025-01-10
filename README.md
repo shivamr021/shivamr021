@@ -27,7 +27,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000" height="" alt="Java"/>
+  <img src="https://img.icons8.com/?size=50&id=5OD485koNIrb&format=png&color=000000" height="" alt="Java"/>
 </div>
 
 
