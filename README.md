@@ -10,8 +10,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamr021&layout=compact&theme=radical" alt="Top Languages">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamr021&theme=radical" alt="Contribution Graph">
-
+[<img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamr021&theme=radical" alt="Contribution Graph">
+](https://github-readme-activity-graph.cyclic.app/graph?username=shivamr021&theme=radical)
 ### Connect with me 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/shivamrathod021/)
