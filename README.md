@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1920x400.png?text=Welcome+to+My+GitHub+Profile" alt="Banner Image" style="width:100%; height:auto;">
+<img src="https://www.example.com/your-image-url.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
 ### Hey there, I'm Shivam Rathod 👋
 
