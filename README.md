@@ -38,6 +38,9 @@
   <a href="https://github.com/shivamr021"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.instagram.com/shivam_r_021/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:shivamrathod145@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+  <a href="https://leetcode.com/u/shivam021/">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/shivamrathod145">
     <img src="https://img.icons8.com/?size=50&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" style="height: 48px; width: 48px;"/>
   </a>
