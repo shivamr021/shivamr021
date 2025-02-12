@@ -50,10 +50,10 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 ### 🌟 HackerRank Badges
 <p align="center">
   <a href="https://www.hackerrank.com/profile/shivamrathod145">
-    <img src="https://img.shields.io/badge/Python%20(Basic)-4%20⭐-yellow?style=for-the-badge&logo=python" alt="Python Basic"/>
-    <img src="https://img.shields.io/badge/Problem%20Solving%20(Basic)-3%20⭐-green?style=for-the-badge&logo=hackerrank" alt="Problem Solving Basic"/>
-    <img src="https://img.shields.io/badge/SQL%20(Basic)-3%20⭐-orange?style=for-the-badge&logo=mysql" alt="SQL Basic"/>
-    <!-- Add more badges as you earn them -->
+    <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python" alt="Python"/>
+    <img src="https://img.shields.io/badge/C++-5%20⭐-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
+    <img src="https://img.shields.io/badge/C-4%20⭐-darkblue?style=for-the-badge&logo=c" alt="C"/>
+    <img src="https://img.shields.io/badge/Problem%20Solving-3%20⭐-green?style=for-the-badge&logo=hackerrank" alt="Problem Solving"/>
   </a>
 </p>
 
@@ -80,3 +80,5 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+
