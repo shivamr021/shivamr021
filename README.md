@@ -59,6 +59,13 @@ I'm a passionate software developer who believes in the perfect blend of creativ
   </a>
 </p>
 
+### 🎖️ Holopin Badges
+<p align="center">
+  
+[![An image of @shivamr021's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamr021)](https://holopin.io/@shivamr021)
+
+</p>
+
 ### 🎯 Upcoming Goals
 <p>🌟 Starting my Holopin badge collection journey! Check back soon for my tech achievements and hackathon badges.</p>
 
