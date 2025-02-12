@@ -70,7 +70,7 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 
 </div>
 
-## �� Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   
