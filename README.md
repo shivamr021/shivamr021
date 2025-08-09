@@ -20,11 +20,11 @@
 
 I'm a passionate software developer who believes in the perfect blend of creativity and technology. When I'm not coding, you'll find me crafting verses that rhyme as smoothly as my code compiles! 🎭
 
-- 🔭 Currently exploring the vast realms of **AI/ML** and **Cybersecurity**
-- 🌱 Growing my skills in **DSA** and **Full-Stack Development**
-- 💡 SLC Member at **Datacode.in**
-- 🎯 Goal: Contributing to projects that make a difference
-- ⚡ Fun fact: I can debug code and write poetry simultaneously!
+- 🔭 Currently building AI Agents, ML models, and smart applications
+- 🌱 Expanding expertise in Full-Stack Development & Advanced DSA
+- 💡 SLC Member at Datacode.in and active open-source contributor
+- 🎯 Goal: Creating intelligent systems that solve real-world problems
+- ⚡ Fun fact: I blend debugging sessions with bursts of creative writing
 
 ## 🛠️ Tech Arsenal
 
