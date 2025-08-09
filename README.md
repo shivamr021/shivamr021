@@ -8,7 +8,7 @@
 
     <img src="https://komarev.com/ghpvc/?username=shivamr021&style=flat-square&color=blue" alt="Profile Views"/>
 
-    <img src="https://i.imgflip.com/a2nmyi.gif" alt="The Fool - Animated Banner"/>
+    <img src="https://i.imgflip.com/a2nnlh.gif" alt="The Fool - Animated Banner"/>
 </div>
 
 
