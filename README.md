@@ -48,37 +48,40 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 </div>
 
 ## 🏆 Achievements
-<div align="center">
-  <!-- Add your achievement GIF below -->
-  <!-- <img src="YOUR_GIF_LINK_HERE" alt="Achievements GIF" width="500"/> -->
-### 🧩 LeetCode
+
+<!-- LeetCode Section -->
+<h3 align="center">🧩 LeetCode</h3>
 <p align="center">
   <a href="https://leetcode.com/u/shivam021/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="120"/>
   </a>
 </p>
 
-
-### 🌟 HackerRank Badges
+<!-- HackerRank Section -->
+<h3 align="center">🌟 HackerRank Badges</h3>
 <p align="center">
   <a href="https://www.hackerrank.com/profile/shivamrathod145">
     <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python" alt="Python"/>
   </a>
 </p>
 
-</div>
 
 ## 🔑 Key Projects
 
-- Project Name — short one-liner about what it does.
-  - Repo: [link](https://github.com/yourusername/your-repo)
-  - Live: [link](https://your-live-demo-url)
-- Project Name — short one-liner about what it does.
-  - Repo: [link](https://github.com/yourusername/your-repo)
-  - Live: [link](https://your-live-demo-url)
-- Project Name — short one-liner about what it does.
-  - Repo: [link](https://github.com/yourusername/your-repo)
-  - Live: [link](https://your-live-demo-url)
+## 🔑 Key Projects
+
+- **KrishiMitra-AI** — Bilingual AI assistant for farmers with plant disease detection, market price scraping, and live weather updates.  
+  - Live: [krishimitra-ai.vercel.app](https://krishimitra-ai.vercel.app)  
+
+- **AI Agent Suite** — Local LLM agents for voice interaction, LangChain doc Q&A, and web scraping, boosting workflow efficiency 40%+.  
+  - Repo: [github.com/shivam021/AI-Agent-Suite](https://github.com/shivam021/AI-Agent-Suite)  
+
+- **DjangoCart** — Full-stack Django e-commerce app with secure auth, dynamic catalogue, and cart management.  
+  - Live: [djangocart.vercel.app](https://djangocart.vercel.app)  
+
+- **Automotive Data Analysis** — Statistical modeling & visualization of automotive datasets with Pandas, NumPy, and Matplotlib.  
+  - Repo: [github.com/shivam021/Automotive-Data-Analysis](https://github.com/shivam021/Automotive-Data-Analysis)
+  
 
 ## 🤝 Connect With Me
 
