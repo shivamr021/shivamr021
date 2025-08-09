@@ -68,8 +68,6 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 
 ## 🔑 Key Projects
 
-## 🔑 Key Projects
-
 - **KrishiMitra-AI** — Bilingual AI assistant for farmers with plant disease detection, market price scraping, and live weather updates.  
   - Live: [krishimitra-ai.vercel.app](https://krishimitra-ai.vercel.app)  
 
