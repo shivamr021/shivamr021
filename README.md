@@ -69,16 +69,16 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 ## 🔑 Key Projects
 
 - **KrishiMitra-AI** — Bilingual AI assistant for farmers with plant disease detection, market price scraping, and live weather updates.  
-  - Live: [krishimitra-ai.vercel.app](https://krishimitra-ai.vercel.app)  
+  - [Try it!](https://krishimitra-ai.streamlit.app/)
 
 - **AI Agent Suite** — Local LLM agents for voice interaction, LangChain doc Q&A, and web scraping, boosting workflow efficiency 40%+.  
-  - Repo: [github.com/shivam021/AI-Agent-Suite](https://github.com/shivam021/AI-Agent-Suite)  
+  - [Repo](https://github.com/shivamr021/ollama-langchain-agents)  
 
 - **DjangoCart** — Full-stack Django e-commerce app with secure auth, dynamic catalogue, and cart management.  
-  - Live: [djangocart.vercel.app](https://djangocart.vercel.app)  
+  - [Try it!](https://djangocart.onrender.com/)
 
 - **Automotive Data Analysis** — Statistical modeling & visualization of automotive datasets with Pandas, NumPy, and Matplotlib.  
-  - Repo: [github.com/shivam021/Automotive-Data-Analysis](https://github.com/shivam021/Automotive-Data-Analysis)
+  - [Repo](https://github.com/shivamr021/ibm-skillsbuild-data-project)
   
 
 ## 🤝 Connect With Me
