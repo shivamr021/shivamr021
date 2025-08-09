@@ -22,7 +22,7 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 
 - 🔭 Currently building AI Agents, ML models, and smart applications
 - 🌱 Expanding expertise in Full-Stack Development & Advanced DSA
-- 💡 SLC Member at Datacode.in and active open-source contributor
+- 💡 Actively contributing to open-source and personal tech projects
 - 🎯 Goal: Creating intelligent systems that solve real-world problems
 - ⚡ Fun fact: I blend debugging sessions with bursts of creative writing
 
@@ -49,24 +49,22 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 
 ## 🏆 Achievements
 <div align="center">
-  
   <!-- Add your achievement GIF below -->
   <!-- <img src="YOUR_GIF_LINK_HERE" alt="Achievements GIF" width="500"/> -->
+### ​ LeetCode
+<p align="center">
+  <a href="https://leetcode.com/u/shivam021/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode"/>
+  </a>
+  <br>
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Days Badge" width="120"/>
+</p>
 
 ### 🌟 HackerRank Badges
 <p align="center">
   <a href="https://www.hackerrank.com/profile/shivamrathod145">
     <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python" alt="Python"/>
   </a>
-</p>
-
-### 🧩 LeetCode
-<p align="center">
-  <a href="https://leetcode.com/u/shivam021/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode"/>
-  </a>
-  <!-- Optionally, add your LeetCode stats card below -->
-  <!-- <img src="https://leetcard.jacoblin.cool/shivam021" alt="LeetCode Stats" /> -->
 </p>
 
 </div>
