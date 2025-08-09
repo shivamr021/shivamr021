@@ -54,7 +54,7 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 ### ​ LeetCode
 <p align="center">
   <a href="https://leetcode.com/u/shivam021/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 50" style="height: 120px; width: 120px;">
   </a>
   <br>
   <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Days Badge" width="120"/>
