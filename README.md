@@ -32,9 +32,10 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) |
-| **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white) |
+| **Web** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **AIML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-2B825B?style=for-the-badge&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white) |
+| **Platforms** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) |
 
 </div>
 
@@ -49,37 +50,50 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 ## 🏆 Achievements
 <div align="center">
   
+  <!-- Add your achievement GIF below -->
+  <!-- <img src="YOUR_GIF_LINK_HERE" alt="Achievements GIF" width="500"/> -->
+
 ### 🌟 HackerRank Badges
 <p align="center">
   <a href="https://www.hackerrank.com/profile/shivamrathod145">
     <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python" alt="Python"/>
-    <img src="https://img.shields.io/badge/C++-5%20⭐-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
-    <img src="https://img.shields.io/badge/C-4%20⭐-darkblue?style=for-the-badge&logo=c" alt="C"/>
-    <img src="https://img.shields.io/badge/Problem%20Solving-3%20⭐-green?style=for-the-badge&logo=hackerrank" alt="Problem Solving"/>
   </a>
 </p>
 
-### 🎖️ Holopin Badges
+### 🧩 LeetCode
 <p align="center">
-  
-<a href="https://holopin.io/@shivamr021">
-  <img src="https://holopin.me/shivamr021" alt="@shivamr021's Holopin board" width="700"/>
-</a>
-
+  <a href="https://leetcode.com/u/shivam021/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116" alt="LeetCode"/>
+  </a>
+  <!-- Optionally, add your LeetCode stats card below -->
+  <!-- <img src="https://leetcard.jacoblin.cool/shivam021" alt="LeetCode Stats" /> -->
 </p>
 
 </div>
+
+## 🔑 Key Projects
+
+- Project Name — short one-liner about what it does.
+  - Repo: [link](https://github.com/yourusername/your-repo)
+  - Live: [link](https://your-live-demo-url)
+- Project Name — short one-liner about what it does.
+  - Repo: [link](https://github.com/yourusername/your-repo)
+  - Live: [link](https://your-live-demo-url)
+- Project Name — short one-liner about what it does.
+  - Repo: [link](https://github.com/yourusername/your-repo)
+  - Live: [link](https://your-live-demo-url)
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamrathod021/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamr021)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shivam021/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shivamrathod145)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shivamr017)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shivamr021)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamrathod145@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-1D9BF0?style=for-the-badge&logoColor=white)](https://codolio.com/profile/shivamr021/card)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivamr.21/)
+[![Peerlist](https://img.shields.io/badge/Peerlist-2E2E2E?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/shivamr021)
 
 </div>
 
