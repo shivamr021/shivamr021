@@ -56,8 +56,6 @@ I'm a passionate software developer who believes in the perfect blend of creativ
   <a href="https://leetcode.com/u/shivam021/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="120"/>
   </a>
-  <br>
-  <sub>🏅 50 Days Streak</sub>
 </p>
 
 
