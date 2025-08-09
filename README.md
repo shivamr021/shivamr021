@@ -51,14 +51,15 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 <div align="center">
   <!-- Add your achievement GIF below -->
   <!-- <img src="YOUR_GIF_LINK_HERE" alt="Achievements GIF" width="500"/> -->
-### ​ LeetCode
+### 🧩 LeetCode
 <p align="center">
   <a href="https://leetcode.com/u/shivam021/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge 50" style="height: 120px; width: 120px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="120"/>
   </a>
   <br>
-  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Days Badge" width="120"/>
+  <sub>🏅 50 Days Streak</sub>
 </p>
+
 
 ### 🌟 HackerRank Badges
 <p align="center">
