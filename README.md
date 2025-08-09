@@ -25,6 +25,7 @@ I'm a passionate software developer who believes in the perfect blend of creativ
 - 💡 Actively contributing to open-source and personal tech projects
 - 🎯 Goal: Creating intelligent systems that solve real-world problems
 - ⚡ Fun fact: I blend debugging sessions with bursts of creative writing
+<img src="https://shorturl.at/1M2Cl" width="50%"/>
 
 ## 🛠️ Tech Arsenal
 
