@@ -54,6 +54,9 @@ I'm a passionate software developer who believes in the perfect blend of creativ
   <a href="https://leetcode.com/u/shivam021/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="120"/>
   </a>
+  <a href="https://leetcode.com/u/shivam021/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge 100" style="height: 120px; width: 120px;">
+  </a>
 </p>
 
 <!-- HackerRank Section -->
