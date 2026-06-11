@@ -23,7 +23,7 @@ I specialize in bridging the gap between local AI models and production-ready we
 
 | Domain | Stack |
 |--------|-------|
-| **AI / ML Pipelines** | `TensorFlow` `SentenceTransformers` `KeyBERT` `LangChain` `Ollama` `FAISS` |
+| **AI / ML Pipelines** | `TensorFlow` `SentenceTransformers` `KeyBERT` `LangChain` `Ollama` `FAISS` `Gemini` |
 | **Backend Orchestration** | `FastAPI` `Django` `Twilio (WhatsApp API)` `Supabase` `MongoDB` |
 | **Data & Systems** | `Python` `Scapy (Deep Packet Inspection)` `Streamlit` `Qdrant` |
 
@@ -34,6 +34,8 @@ I specialize in bridging the gap between local AI models and production-ready we
 * **[Codebase.Intelligence](https://github.com/shivamr021/codebase-intelligence)** — Transforms entire GitHub repositories into searchable knowledge bases using dependency graph analysis, semantic search, and AI reasoning.
 * **[KrishiMitra AI](https://github.com/shivamr021/KrishiMitra-AI)** — Hackathon-winning bilingual WhatsApp AI for farmers. Hybrid architecture combining a local EfficientNet disease model with a Gemini Vision fallback.
 * **[Local Agents Hub](https://github.com/shivamr021/ollama-langchain-agents)** — Open-source suite of offline LLM agents (RAG, Web Scraping, Voice) built entirely without cloud APIs. *(14+ Stars)*
+* **[Resume Forge](https://github.com/shivamr021/Resume-Forge)** — AI-powered resume optimization platform using Streamlit, local NLP embeddings, and Gemini for semantic ATS scoring.
+* **[The Missing Fit](#)** — Architected the Django backend, inventory system, and Supabase integration for a production-ready fashion rental platform. *(Freelance Contract)*
 * **[NetScope Pro](#)** — Real-time network monitoring forensic system with deep packet inspection and SYN flood anomaly detection. *(Freelance Contract)*
 * **[FieldLens](#)** — Telecom field verification backend orchestrating technician tasks via a structured 14-step Twilio WhatsApp pipeline. *(Freelance Contract)*
 
